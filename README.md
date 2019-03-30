@@ -34,12 +34,12 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-``` Semantic HTML is a way to make your HTML code easier to read and follow, not only for screen readers but also for other coders. Being able to adjust your HTML code so that screen readers can follow your code opens up a wider audience to be able to experience your website. As well, whether you are working with a group or have other people viewing your code, semantic HTML will make the code easier to read and allow others to follow along with your intended content. This also includes when you are reviewing your own code later down the road. Having one set guideline to follow will allow for easier review and updating on the website. Therefore, to access a larger audience, work with a group, preparing for future updates, or just allow for other coders to contribute advise, semantic HTML is a get resource to utilize. ```
+> Semantic HTML is a way to make your HTML code easier to read and follow, not only for screen readers but also for other coders. Being able to adjust your HTML code so that screen readers can follow your code opens up a wider audience to be able to experience your website. As well, whether you are working with a group or have other people viewing your code, semantic HTML will make the code easier to read and allow others to follow along with your intended content. This also includes when you are reviewing your own code later down the road. Having one set guideline to follow will allow for easier review and updating on the website. Therefore, to access a larger audience, work with a group, preparing for future updates, or just allow for other coders to contribute advise, semantic HTML is a get resource to utilize.
 
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
-``` Differences between *display: block;* and *display: inline;* include:```
+> Differences between *display: block;* and *display: inline;* include:
 
 * **display: block** - will start a new line and take up the whole width
 * **display: inline** - can display in the same line
@@ -48,7 +48,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 3. What are the 4 areas of the box model?
 
-> 
+> Box Model areas include:
 - Margin
 - Border
 - Padding
@@ -57,7 +57,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
-> 
+> ```align-items: center``` affects:
 * cross-axis (or horizontal)
 
 

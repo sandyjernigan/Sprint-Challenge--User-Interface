@@ -165,7 +165,7 @@ header nav a {
     color: black;
     text-decoration: none;
 }
-
+/* Color Boxes */
 .middle-content .boxes .box:first-child {
     background-color: teal;
 }
@@ -204,4 +204,47 @@ header nav a {
 
 .middle-content .boxes .box:nth-child(10) {
     background-color: dodgerblue;
+}
+
+/* About Page */
+.about-page .top-content .text-container {
+    width: 100%;
+    margin: 0 2% 20px;
+}
+
+.about-page .middle-content {
+    margin: 0 2% 20px;
+    display: flex;
+    flex-wrap: wrap;    
+    justify-content: space-between;
+    border-bottom: 0;
+}
+
+.about-page .middle-content h2 {
+    padding: 10px 0;
+}
+
+.about-page .middle-content p {
+    padding-bottom: 10px;
+}
+
+.about-page .middle-content .text-container {
+    padding: 10px 0;
+    width: 48%;
+    margin-bottom: 0;
+    border-bottom: 1px dashed black;
+}
+
+.about-page .middle-content img {
+    width: 100%;
+}
+
+.about-page .middle-content button {
+    background-color: snow;
+	border: 1px solid black;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	margin: 10px 0;
+	border-radius: 5px;
 }
