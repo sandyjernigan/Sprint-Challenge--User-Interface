@@ -33,16 +33,40 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+```
+Semantic HTML is a way to make your HTML code easier to read and follow, not only for screen readers but also for other coders. Being able to adjust your HTML code so that screen readers can follow your code opens up a wider audience to be able to experience your website. As well, whether you are working with a group or have other people viewing your code, semantic HTML will make the code easier to read and allow others to follow along with your intended content. This also includes when you are reviewing your own code later down the road. Having one set guideline to follow will allow for easier review and updating on the website. Therefore, to access a larger audience, work with a group, preparing for future updates, or just allow for other coders to contribute advise, semantic HTML is a get resource to utilize.
+```
+
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+```
+Differences between *display: block;* and *display: inline;* include:
+* **display: block** - will start a new line and take up the whole width
+* **display: inline** - can display in the same line
+Block style is more ridge but will allow you to space out needed content. However, inline style is flexible and allows for the placement of items inside other content.
+```
 
 3. What are the 4 areas of the box model?
+```
+- Margin
+- Border
+- Padding
+- Content
+```
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+```
+* cross-axis (or horizontal)
+```
 
 5. Explain why git is valuable to a team of developers.
+```
+Git can allow a team to work together, by being able to contribute to the same project without overlapping or overwriting each others work. 
+Team members can be working in the same project at the same time and use git methods such as merge to combine the files and check for any conflicts. It also allows for other team members to review the work before combining with the master files thru the use of forks and branches. These will give each member a working copy that that member can work on while not affecting the master copy until everything has been reviewed and accepted.
+```
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
+
 
 ## Project Set Up
 
